@@ -1,5 +1,5 @@
 # :wave: Hello there! I'm Nicolás Streri
-### I am a computer science student from Argentina.
+### I am a software developer from Argentina 🇦🇷.
 
 <p align="left">
   <a href="https://github.com/nicostreri/nicostreri">
